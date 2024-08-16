@@ -1,1 +1,2 @@
-# hpfonts
+# HPfonts
+Fonts for HarryPotter

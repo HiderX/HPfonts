@@ -1,0 +1,181 @@
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/normal_normal_200.woff2) format("woff2");
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/normal_normal_250.woff2) format("woff2");
+    font-weight: 250;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/normal_normal_300.woff2) format("woff2");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/normal_normal_400.woff2) format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/normal_normal_500.woff2) format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/normal_normal_500.woff2) format("woff2");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/normal_normal_700.woff2) format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/normal_normal_800.woff2) format("woff2");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/normal_normal_900.woff2) format("woff2");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/italic_normal_200.woff2) format("woff2");
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/italic_normal_250.woff2) format("woff2");
+    font-weight: 250;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/italic_normal_300.woff2) format("woff2");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/italic_normal_400.woff2) format("woff2");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/italic_normal_500.woff2) format("woff2");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/italic_normal_500.woff2) format("woff2");
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/italic_normal_700.woff2) format("woff2");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/italic_normal_800.woff2) format("woff2");
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    src: url(/fonts/sofia-pro/italic_normal_900.woff2) format("woff2");
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Mason Sans OT;
+    src: url(/fonts/MasonSansRegular_Regular.woff2);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Mason Sans OT;
+    src: url(/fonts/MasonSansBold.woff2);
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Bluu Next;
+    src: url(/fonts/BluuNext-Bold.woff2) format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: BluuSuuperstar-Italic;
+    src: url(/fonts/BluuSuuperstar-Italic.woff2) format("woff2");
+    font-weight: 400;
+    font-display: swap
+}
+
+@font-face {
+    font-family: BluuSuuperstar-BoldItalic;
+    src: url(/fonts/BluuSuuperstar-BoldItalic.woff2) format("woff2");
+    font-weight: 700;
+    font-display: swap
+}
